@@ -150,13 +150,13 @@ div>textarea {
 
 @media (max-width: 600px) {
     div>input {
-        width: 35vw;
+        width: 50vw;
         height: 4vh;
         font-size: .9rem;
         border-radius: 5px;
     }
     div>textarea {
-        width: 35vw;
+        width: 50vw;
         height: 10vh;
         border-radius: 5px;
         font-size: .9rem;
